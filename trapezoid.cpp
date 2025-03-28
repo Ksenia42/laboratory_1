@@ -103,6 +103,6 @@ int main() {
     cout << "Периметр трапеции: " << perimeter << endl;
     cout << "Площадь трапеции: " << area << endl;
     cout << "Длина средней линии: " << midline << endl;
-
+//trapezoid
     return 0;
 }
